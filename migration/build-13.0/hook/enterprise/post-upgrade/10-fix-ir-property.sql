@@ -1,0 +1,1 @@
+DELETE FROM ir_property WHERE res_id IS NULL;
